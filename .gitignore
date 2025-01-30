@@ -1,0 +1,42 @@
+# Ignorar arquivos do Docker 
+.dockerignore
+
+# Ignorar arquivos de compilação do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignorar ambientes virtuais
+venv/
+env/
+*.env/
+
+# Ignorar dependências do pip (criação de virtualenv ou requirements)
+*.egg-info/
+*.eggs/
+dist/
+build/
+
+# Ignorar arquivos do IDE (PyCharm, VSCode, etc.)
+.vscode/
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios e arquivos temporários
+*.swp
+*.bak
+*.tmp
+*.temp
+*.orig
+
+# Ignorar arquivos do Robot Framework
+output/
+log/
+report/
+*.xml
+
+# Ignorar arquivos de configuração do sistema (ex: MacOS, Windows)
+.DS_Store
+Thumbs.db
