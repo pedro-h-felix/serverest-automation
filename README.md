@@ -11,6 +11,7 @@ A estrutura do repositório foi projetada para melhor organização e clareza, s
 - **`tests`**: Contém os casos de teste propriamente ditos.
 
 Foram implementados testes utilizando diferentes abordagens e estilos para maior flexibilidade e aprendizado.
+Lembrando que o ServeRest é uma aplicação dinamica que pode haver mudanças devido ao fluxo de pessoas testando simultaneamente.
 
 ---
 
