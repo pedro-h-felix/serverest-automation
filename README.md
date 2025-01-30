@@ -31,7 +31,7 @@ Lembrando que o ServeRest é uma aplicação dinamica que pode haver mudanças d
 ### 1️⃣ Clonar o repositório
 ```bash
  git clone https://github.com/pedro-h-felix/serverest-automation.git
- cd seu-repositorio
+ cd serverest-automation
 ```
 
 ### 2️⃣ Criar um ambiente virtual (opcional, mas recomendado)
